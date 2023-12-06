@@ -7,6 +7,13 @@ body{
     overflow-x: hidden;
 }
 
+#novedades .titulo{
+    width: 100%;
+    text-align: center;
+    color: #fff;
+}
+
+
 .img-h{
     width: 100%;
     height: 610px;
